@@ -27,7 +27,7 @@ SECRET_KEY = 'd$pxg6fisc4iwzk&vz^s_d0lkf&k63l5a8f!obktw!jg#4zvp3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['my-best-wiki.azurewebsites.net']
+ALLOWED_HOSTS = ['my-best-wiki.azurewebsites.net','127.0.0.1']
 
 
 # Application definition
