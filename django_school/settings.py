@@ -118,6 +118,8 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'staticfiles'),
 ]
 
+# CHAGE MADE ACCORDING TO CHATPGT
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles', 'collected_static')
 
 # Custom Django auth settings
 
